@@ -1,0 +1,6 @@
+#! /bin/bash
+
+cd ~/Documents/OopsieOS/System
+rm Main
+make Main
+./Main
